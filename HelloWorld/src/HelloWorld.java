@@ -17,6 +17,9 @@ public class HelloWorld {
 		name = br.readLine();
 		
 		System.out.println("Hello "+name);
+		System.out.println("Welcome to Git");
+		
+		
 
 	}
 
